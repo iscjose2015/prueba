@@ -2,6 +2,6 @@
 
 
 echo "Hola Mundo Git Rosario";
-echo "Prueba modificacion archivo 2 - Rosario";
+echo "Prueba modificacion archivo hola_2 - Rosario";
 
 ?>
